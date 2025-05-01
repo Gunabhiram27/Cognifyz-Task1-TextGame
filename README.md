@@ -20,9 +20,6 @@ This is a console-based number guessing game developed during my internship at *
 2. Open it in IntelliJ
 3. Run the `Game.java` file in the `src/com/cognifyz` package
 
-## 🎥 Demo
-Video demo included in this repo: `Task1_Video.mp4`
-
 ---
 
 > Built with ❤️ by Gunabhiram during the **Cognifyz Internship**
